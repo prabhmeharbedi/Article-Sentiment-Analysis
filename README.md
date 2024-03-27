@@ -94,10 +94,7 @@ tokens back into a sentence.
 - ‘Text’ contains the processed and cleaned text data after tokenization and stopword removal.
 
 
-## Snapshots of Dashboard
-
-
-Link to Dashbaord - <a href = "https://public.tableau.com/views/SentimentAnalysisofArticles/Dashboard1?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link">Click Here</a>
+## Link to Dashbaord - <a href = "https://public.tableau.com/views/SentimentAnalysisofArticles/Dashboard1?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link">Click Here</a>
 
 
 ## About the Dashbaord
@@ -107,3 +104,20 @@ will receive an overview of the sentiment analysis, including positive
 and negative scores, polarity scores, subjective score, a treemap, a
 word cloud, and plots comparing various articles and their
 corresponding scores
+
+## Snapshots of Dashboard
+
+### Image - 1
+![pic1](https://github.com/prabhmeharbedi/Article-Sentiment-Analysis/assets/91597702/17c88df7-8be5-48b3-b486-70638a600110)
+
+### Image - 2
+![pic2](https://github.com/prabhmeharbedi/Article-Sentiment-Analysis/assets/91597702/33f6f8fc-0f29-49b3-b9e8-bb42b4fb3a2c)
+
+### Image - 3
+![pic3](https://github.com/prabhmeharbedi/Article-Sentiment-Analysis/assets/91597702/ec3b3932-574d-4def-93c0-c08aacb051ec)
+
+### Image - 4
+![pic4](https://github.com/prabhmeharbedi/Article-Sentiment-Analysis/assets/91597702/74744474-6707-43d4-a2ce-c13d1fc7d353)
+
+### Image - 5
+![pic5](https://github.com/prabhmeharbedi/Article-Sentiment-Analysis/assets/91597702/c27ed804-548d-4bf9-8e2f-1c4ab2214916)
