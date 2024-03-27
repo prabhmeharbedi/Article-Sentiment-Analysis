@@ -1,6 +1,9 @@
 # Article-Sentiment-Analysis
 
 
+## <a href = "https://github.com/prabhmeharbedi/Article-Sentiment-Analysis/blob/main/Article_Sentiment_Analysis.ipynb"> Click here to access colab file </a>
+
+
 ## Project Overview
 
 In this sentiment analysis project, articles are systematically scraped from 
