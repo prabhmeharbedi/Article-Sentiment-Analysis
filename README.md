@@ -1,7 +1,7 @@
 # Article-Sentiment-Analysis
 
 
-## <a href = "https://github.com/prabhmeharbedi/Article-Sentiment-Analysis/blob/main/Article_Sentiment_Analysis.ipynb"> Click here to access colab file </a>
+## <a href = "https://github.com/prabhmeharbedi/Article-Sentiment-Analysis/blob/main/Article_Sentiment_Analysis.ipynb"> Click here to access Colab file </a>
 
 
 ## Project Overview
