@@ -96,7 +96,8 @@ tokens back into a sentence.
 
 ## Snapshots of Dashboard
 
-Link to Dashbaord - <a href = "">Click Here</a>
+
+Link to Dashbaord - <a href = "https://public.tableau.com/views/SentimentAnalysisofArticles/Dashboard1?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link">Click Here</a>
 
 
 ## About the Dashbaord
